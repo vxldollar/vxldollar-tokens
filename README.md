@@ -14,7 +14,7 @@ EXCHANGE
 VXL DOLLAR is a crypto exchange medium that you can exchange with fiat currencies like USD, EUR, GBP, CHF, and with all cryptocurrencies like BTC, ETH, CARDANO, Solana and etc.
 You can also trade VXLD on DEFI markets as a Swap or a NFT payment.
 
-* White paper: https://vxldollar.com/wp-content/uploads/2022/05/VXL-DOLLAR-WHITE-PAPER-2022..pdf
+* White paper: https://vxldollar.com/wp-content/uploads/2022/09/VXL-DOLLAR-WHITE-PAPER-2022-1.pdf
 * Web site: www.vxldollar.com
 * Facebook: https://www.facebook.com/vxldollar
 * Instagram: https://www.instagram.com/vxldollar/
